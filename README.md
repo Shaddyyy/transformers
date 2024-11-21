@@ -4,5 +4,4 @@ Link: https://arxiv.org/abs/1706.03762
 
 Built the base model of transformers architecture(d_model=512) from scratch in Pytorch.
 
-Easy tutorial on transformers for beginners: https://peterbloem.nl/blog/transformers
 
